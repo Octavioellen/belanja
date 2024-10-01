@@ -1,6 +1,6 @@
 # belanja
 # 362358302101_Octavio Ellen Hariyadi
-![screenshoot praktikum](assets/image/Hasil Fluter.png)
+![screenshoot praktikum](assets/image/HasilFluter.png)
 A new Flutter project.
 
 ## Getting Started
